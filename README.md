@@ -7,6 +7,7 @@ venvs\demoenv37\Scripts>activate.bat
 
 ## Test execution
 **Run tests using  the following commands:**
+
 python -m tests.efficient
 
 python -m tests.element_exercise
